@@ -31,6 +31,7 @@ Using retail and sales datasets, I applied Excel formulas, data filtering, sorti
 
 <img src='/images/Day3_Task1.png' />
 
+
 ### 3. Sales Performance Categorisation
 - Created a PivotTable summarising laptop, smartphone and printer sales across English counties.
 - Used the `SWITCH` function to categorise sales volumes:
@@ -38,10 +39,16 @@ Using retail and sales datasets, I applied Excel formulas, data filtering, sorti
   - **Medium:** 300–600
   - **Low:** Below 300
 
+<img src='/images/Day3_Task2.png' />
+
 ### 4. Data Visualisation
 - Created line charts to compare revenue and profit over time.
 - Used bar charts to compare product revenue across countries.
 - Created pie charts to visualise revenue distribution across age groups.
+
+<img src='/images/Day3_Task3_1.png' />
+<img src='/images/Day3_Task3_2.png' />
+<img src='/images/Day3_Task3_3.png' />
 
 ## Key Takeaways
 
